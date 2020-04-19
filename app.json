@@ -1,11 +1,7 @@
 {
   "name": "InstaFlask",
   "description": "Python-ica-Flask way to view Instagram Profile, Download HD DP/Photo/Video of users from link.",
-  "keywords": [
-    "flask",
-    "python",
-    "instagram"
-    "downloader"
-  ],
+  "keywords": ["flask","python","instagram","downloader"],
   "repository": "https://github.com/cyberboysumanjay/InstaFlask"
+  "icon":"https://node-js-sample.herokuapp.com/node.png"
 }
